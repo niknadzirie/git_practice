@@ -1,7 +1,3 @@
-Hello Git and GitHub
+#Conversation at coffe shop
 
-Hello from Ubuntu
-
-Hello from Windows
-
-Bye from windows
+What you want to order?
